@@ -4,7 +4,9 @@ Simple Linear regressión is a mathematical model for finding the relationship b
 
 This is donde by fitting a linear equation and one of the method employed for adjusting it is the Least Squares Method. The equation is expressed as follows:
 
-![formula](https://render.githubusercontent.com/render/math?math=y=b_0%2Bb_1*x)
+<p align="center">
+  <img width="250" height="150" src="https://render.githubusercontent.com/render/math?math=y=b_0%2Bb_1*x">
+ </p>
 
 ## Least squares method
 
